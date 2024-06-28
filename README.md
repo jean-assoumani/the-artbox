@@ -33,5 +33,5 @@
    - Factoriser la page d'acceuil et la page de détail.
    - Vérification et test.
   
-#### Voir le projet en ligne : 🔗 [The Artbox](https://jean-assoumani.github.io/the-artbox/)
+#### Voir le projet en ligne : 🔗 [The Artbox](https://the-artbox.assoumani.pro/)
 ***<p>Projet 5 - Premiers pas sur le langage PHP - Openclassrooms 2024</p>***
