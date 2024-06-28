@@ -1,0 +1,21 @@
+# Ignore les fichiers de cache
+/cache/
+
+# Ignore les fichiers temporaires
+.tmp/
+
+# Ignore les fichiers de sauvegarde automatique
+*.bak
+
+# Ignore les fichiers de configuration utilisateur spécifiques
+.DS_Store
+Thumbs.db
+
+# Répertoires
+/css/
+
+# Fichiers
+/footer.php
+/header.php
+/oeuvre.php
+/oeuvres.php
